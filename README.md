@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ethan
 
-<!--
-**ethyi/ethyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in San diego.
+Previously at **[Definitive](https://definitive.fi/)** and **[Helius](https://www.helius.dev/)**.
 
-Here are some ideas to get you started:
+### 🛠 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[CAISO Grid View](https://ethyi.github.io/gridview/)**
+* A dashboard for visualizing real time California ISO grid data
+
+**[PrefPoll](https://prefpoll.vercel.app/)**
+* A web application for conducting ranked choice voting polls
+
