@@ -5,6 +5,9 @@ Previously at **[Definitive](https://definitive.fi/)** and **[Helius](https://ww
 
 ### 🛠 Projects
 
+**[Tinywall](https://ethyi.github.io/tinywall/)**
+* A Solar/Battery/Load IOT management system
+
 **[CAISO Grid View](https://ethyi.github.io/gridview/)**
 * A dashboard for visualizing real time California ISO grid data
 
