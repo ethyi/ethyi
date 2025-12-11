@@ -5,12 +5,14 @@ Previously at **[Definitive](https://definitive.fi/)** and **[Helius](https://ww
 
 ### 🛠 Projects
 
-**[Tinywall](https://ethyi.github.io/tinywall/)**
-* A Solar/Battery/Load IOT management system
+**[Tinywall](https://github.com/ethyi/tinywall/)**
+* Solar/Battery/Load IOT management system
 
 **[CAISO Grid View](https://ethyi.github.io/gridview/)**
-* A dashboard for visualizing real time California ISO grid data
+* Dashboard for visualizing real time California ISO grid data
 
 **[PrefPoll](https://prefpoll.vercel.app/)**
-* A web application for conducting ranked choice voting polls
+* Web application for conducting ranked choice voting polls
 
+**[Paperpetual](https://github.com/ethyi/paperpetual/)**
+* Trading terminal with simulated money
